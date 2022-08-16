@@ -10,3 +10,6 @@ On Linux:
 Use Command 'node .'
 # Bot Client: 
 Coming Soon...
+# Key Start Bot
+Import In Config.json To Start Bot No Error
+AQNE-W85O-JO5L-4YZQ
