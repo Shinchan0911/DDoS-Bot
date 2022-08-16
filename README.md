@@ -6,9 +6,9 @@ Pls Stop Antivirus software If Not Will Have Error
 Use Command npm i To Install Package Bot
 And Install Perl In https://perl.org/
 # Start Bot
-On Window:\n
+# On Window:
 Start File KHOI DONG BOT.bat\n
-On Linux:\n
+# On Linux:
 Use Command 'node .'
 # Bot Client: 
 Coming Soon...
