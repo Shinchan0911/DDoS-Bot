@@ -1,5 +1,7 @@
 # DDoS-Bot
 Use NodeJS And Perl
+# Warning
+Pls Stop Antivirus software If Not Will Have Error
 # Install 
 Use Command npm i To Install Package Bot
 And Install Perl In https://perl.org/
