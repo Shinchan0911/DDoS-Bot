@@ -14,4 +14,4 @@ Use Command 'node .'
 Coming Soon...
 # Key Start Bot
 Import In Config.json To Start Bot No Error
-AQNE-W85O-JO5L-4YZQ
+# AQNE-W85O-JO5L-4YZQ
