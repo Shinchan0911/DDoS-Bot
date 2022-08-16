@@ -13,5 +13,5 @@ Use Command 'node .'
 # Bot Client: 
 https://github.com/Shinchan0911/DDoS-Bot-Client
 # Key Start Bot
-Import In Config.json To Start Bot No Error
+Enter In Config.json To Start Bot No Error
 # AQNE-W85O-JO5L-4YZQ
